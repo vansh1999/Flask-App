@@ -22,4 +22,3 @@ def project_detail(request , pk):
 
 
 
-
